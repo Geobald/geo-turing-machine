@@ -1,0 +1,5 @@
+/Users/georgebaldwin/Desktop/Machine-master/Machine/bin/Debug/Machine.dll
+/Users/georgebaldwin/Desktop/Machine-master/Machine/bin/Debug/Machine.pdb
+/Users/georgebaldwin/Desktop/Machine-master/Machine/obj/Debug/Machine.csprojAssemblyReference.cache
+/Users/georgebaldwin/Desktop/Machine-master/Machine/obj/Debug/Machine.dll
+/Users/georgebaldwin/Desktop/Machine-master/Machine/obj/Debug/Machine.pdb
