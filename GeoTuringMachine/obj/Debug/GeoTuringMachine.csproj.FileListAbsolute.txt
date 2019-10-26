@@ -1,0 +1,5 @@
+/Users/georgebaldwin/Desktop/GeoTuringMachine/GeoTuringMachine/bin/Debug/GeoTuringMachine.exe
+/Users/georgebaldwin/Desktop/GeoTuringMachine/GeoTuringMachine/bin/Debug/GeoTuringMachine.pdb
+/Users/georgebaldwin/Desktop/GeoTuringMachine/GeoTuringMachine/obj/Debug/GeoTuringMachine.exe
+/Users/georgebaldwin/Desktop/GeoTuringMachine/GeoTuringMachine/obj/Debug/GeoTuringMachine.pdb
+/Users/georgebaldwin/Desktop/GeoTuringMachine/GeoTuringMachine/obj/Debug/GeoTuringMachine.csprojAssemblyReference.cache
